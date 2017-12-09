@@ -1,0 +1,38 @@
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.pdb
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.dll
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.pdb
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.Properties.Resources.resources
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.GenerateResource.Cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.Properties.Resources.resources
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.GenerateResource.Cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.dll
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.exe.config

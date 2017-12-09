@@ -1,0 +1,54 @@
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\Downloads\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+E:\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+E:\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.CoreCompileInputs.cache
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+E:\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Users\Vincent\source\repos\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe.config
+C:\Users\Jon\Downloads\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe.config
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Users\Jon\Documents\HES-SO\7e Semestre\Test dev\Exercice 2\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
