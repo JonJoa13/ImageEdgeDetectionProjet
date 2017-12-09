@@ -11,7 +11,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 using System.Drawing.Drawing2D;
-//test jon
+
 namespace ImageEdgeDetection
 {
     public static class ExtBitmap
